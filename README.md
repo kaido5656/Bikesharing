@@ -29,4 +29,6 @@
   ##### The image above show a map of the top starting locations in NYC
   
 ### Summary
-  After viewing the visualiztions of the NYC citi bike data one can see that when it come to genders that males are the largest user group for bike rentals and that generally most rides are done within an hour of their startime in all genders. Another observation would be that Thursday and Friday show the most usage of rental bikes and that during the working weekday of Mon-Fri the average high start time would be 7-9am and 5-7pm. Further suggested visualizations would include the relationship between usertype and tripduration, and usertype by tripduration per gender.
+  After viewing the visualiztions of the NYC citi bike data one can see that when it come to genders that males are the largest user group for bike rentals and that generally most rides are done within an hour of their startime in all genders. Another observation would be that Thursday and Friday show the most usage of rental bikes and that during the working weekday of Mon-Fri the average high start time would be 7-9am and 5-7pm. Further suggested visualizations would include the relationship between usertype and tripduration, and usertype by tripduration per gender. Please visit the Tableau Public link below to interact with the story.
+  [Link to the Story!](https://public.tableau.com/app/profile/peter.chen3937/viz/NYC_citibike_anaylsis_project/NYCanalysis)
+  
